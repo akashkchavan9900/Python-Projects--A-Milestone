@@ -1,3 +1,10 @@
+#Day 10:  Don't comment bad code – rewrite it
+#Topics: Functions with Outputs 
+#Project: Calculator
+""" Problem Statement"""
+# To create a calulator for mathematical operations on a hiven user input. Using function and dictionaries to call specific operation on input numbers.
+# Used Recusrion concept to call function itself.
+
 from art import logo
 
 def add(n1, n2):
