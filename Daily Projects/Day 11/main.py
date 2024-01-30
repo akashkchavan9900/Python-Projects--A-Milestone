@@ -4,7 +4,6 @@
 # Link    : The Blackjack game: https://games.washingtonpost.com/games/blackjack/
 
 ############### Our Blackjack House Rules #####################
-
 ## The deck is unlimited in size. 
 ## There are no jokers. 
 ## The Jack/Queen/King all count as 10.
