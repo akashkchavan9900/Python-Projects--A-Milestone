@@ -1,4 +1,4 @@
-# Day 13  : Programming is art
+# Day 13  : Remove the Bugs. Just Debug it.
 # Topics  : Debugging and more...
 ############DEBUGGING#####################
 # # Describe Problem
