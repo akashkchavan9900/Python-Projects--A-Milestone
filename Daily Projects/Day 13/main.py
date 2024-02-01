@@ -1,7 +1,6 @@
-# Day 12  : Programming is the art of telling another human being what one wants the computer to do. 
+# Day 13  : Programming is art
 # Topics  : Debugging and more...
 ############DEBUGGING#####################
-
 # # Describe Problem
 # def my_function():
 #   for i in range(1, 21):
