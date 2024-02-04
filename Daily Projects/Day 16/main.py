@@ -1,6 +1,6 @@
-# Day 15  : Write Code, Drink Coffee
-# Topics  : Day 1 - Day 13
-# Project : Coffee Machine
+# Day 16  : Write Code, Drink Coffee
+# Topics  : OOPS, Classes and Objects
+# Project : Coffee Machine 2.0
 ############################ Code #############################################
 from menu import Menu
 from coffee_maker import CoffeeMaker
