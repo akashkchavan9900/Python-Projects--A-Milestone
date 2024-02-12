@@ -1,3 +1,8 @@
+# Day 23  : Error in Code is a boon to learn programming and improve logical thinking
+# Topics  : OOPS and Inheritance
+# Project : The Turtle Crossing Capstone Project
+######################################## Code ############################################
+
 import time
 from turtle import Screen
 from player import Player
