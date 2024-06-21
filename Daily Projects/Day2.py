@@ -1,4 +1,4 @@
-#Day 2: Coding = Magic
+#Day 2: Coding + Maths = Success
 #Topics: Data types, String manipulation
 #Project: Tip Calculator
 """ Problem Statement"""
