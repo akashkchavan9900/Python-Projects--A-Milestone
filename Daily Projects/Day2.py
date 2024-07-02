@@ -1,6 +1,6 @@
 #Day 2: Coding + Maths = Success
 #Topics: Data types, String manipulation
-#Project: Tip Calculator
+#Project: The Tip Calculator
 """ Problem Statement"""
 #If the bill was ₹150.00, split between 5 people, with 12% tip. 
 #Each person should pay (150.00 / 5) * 1.12 = 33.6
