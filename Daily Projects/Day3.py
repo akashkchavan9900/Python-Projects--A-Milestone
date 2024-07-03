@@ -1,6 +1,6 @@
 #Day 3: Solving problems through CODING, is treasure hunt for ME!!
 #Topics: Control Flow & Logical Operators
-#Project: Treasure Island 
+#Project: The Treasure Island 
 """ Problem Statement"""
 # To build a Simple Treasure Island Game: Reach the trasure by inputs asked using Control flow and Logical Statements.  
 """-------------Code-------------"""
