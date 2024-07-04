@@ -1,6 +1,6 @@
 #Day 4: Sit Back and Play!!!
 #Topics: Randomization and Lists DS
-#Project: Rock, Paper, Scissors
+#Project: The Rock, Paper, Scissors Game
 """ Problem Statement"""
 # To build a Rock Paper Scissor- A Clash between User & Computer
 """-------------Code-------------"""
