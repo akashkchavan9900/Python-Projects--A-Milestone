@@ -1,6 +1,6 @@
 #Day 5: Keep things Private.
 #Topics: Loops-FOR 
-#Project: Password Generator 
+#Project: Password Generator
 """ Problem Statement"""
 # To build a Randomised Passoword Generator.
 # Use Random Module and its functions
