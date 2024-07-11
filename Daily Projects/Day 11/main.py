@@ -1,4 +1,4 @@
-# Day 11  : Make it work, make it right, make it fast
+# Day 11  : Make it work, make it right, make it fast. 
 # Topics  : Print, Return, loops, control flow, list, function, recursion
 # Project : The Blackjack Capstone Project
 # Link    : The Blackjack game: https://games.washingtonpost.com/games/blackjack/
