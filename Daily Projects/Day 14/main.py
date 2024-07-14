@@ -1,6 +1,6 @@
 # Day 14  : It's harder to read code than to write it.
 # Topics  : Day 1 - Day 13 
-# Project : Higher Lower Game
+# Project : Higher Lower Game 
 # Link    : https://www.higherlowergame.com/
 
 ######################### Problem Chunks/Tasks  ##############################
