@@ -4,7 +4,6 @@
 ############################ Code #############################################
 from data import MENU, resources
 
-
 def is_resource_sufficient(order_ingredients):
     """ Returns True when order can be made. False if ingrediesnts are insufficient"""
     for item in order_ingredients:
@@ -12,7 +11,6 @@ def is_resource_sufficient(order_ingredients):
             print(f"Sorry there is not enough {item}.")
             return False
     return True
-
 
 def process_coins():
     """ Returns the total calculated from coins inserted. """
@@ -22,7 +20,6 @@ def process_coins():
     total += int(input("How many Nickles:")) * 0.05
     total += int(input("How many Pennies:")) * 0.01
     return total
-
 
 def is_transaction_successful(money_received, drink_cost):
     """Return True when the payment is accepted, or False if money is insufficient. """
@@ -36,13 +33,11 @@ def is_transaction_successful(money_received, drink_cost):
         print("Sorry that's not enough money. Money Refunded")
         return False
 
-
 def make_coffee(drink_name, order_ingredients):
     """Deduct the required ingredients from the resources. """
     for item in order_ingredients:
         resources[item] -= order_ingredients[item]
     print(f"Here is your {drink_name}☕")
-
 
 profit = 0
 is_on = True
