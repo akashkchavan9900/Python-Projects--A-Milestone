@@ -1,6 +1,6 @@
 # Day 17  : It's Quiz Time!!
 # Topics  : Class Constructors, Attributes, Methods
-# Project : The Quiz Project
+# Project : The Quiz Project 
 ############################ Code #############################################
 
 from question_model import Question
@@ -14,7 +14,7 @@ for question in question_data:
     new_question = Question(question_text, question_answer)
     question_bank.append(new_question)
 
-quiz = QuizBrain(question_bank)
+quiz = QuizBrain(question_bank) 
 
 while quiz.still_has_questions():
     quiz.next_question()
