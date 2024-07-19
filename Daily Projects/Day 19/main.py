@@ -1,6 +1,6 @@
 #Day 10:  Slow and Steady Wins the Race!!!
 #Topics: Instances,State and High Order Functions 
-#Project: The Turtle Race
+#Project: The Turtle Race  
 """ Problem Statement"""
 # Turtle Race using Turtle library with simple GUI
 """--------------------------------------------- Code --------------------------------------------------"""
