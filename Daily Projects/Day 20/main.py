@@ -1,6 +1,6 @@
 # Day 20  : Programming is not about memorising
 # Topics  : Animation and Coordinates
-# Project : Python: A Snake Game
+# Project : Python: A Snake Game   
 
 
 ######################################## Code ############################################
