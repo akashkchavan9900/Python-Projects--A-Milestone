@@ -1,4 +1,3 @@
-
 #Day 1: Success is measured in Steps")
 #Topics: Variables, print{}, strings
 #Project: The Band Name Generator
